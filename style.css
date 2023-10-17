@@ -1,0 +1,51 @@
+h1 {
+	color: rgb(138, 122, 152);
+	background-color: rgb(240, 239, 237);
+	text-align: center;
+}
+
+.Page1subTitle {
+	font-weight: bold;
+	font-size: 18px;
+	color: rgb(78, 69, 87);
+}
+.Page1normal-P {
+	color: rgb(78, 69, 87);
+}
+
+.Page1-h2-style {
+	color: rgb(104, 65, 144);
+}
+.Page1-h3-style {
+	color: rgb(104, 65, 144);
+}
+
+.Page1-a-style {
+	color: rgb(75, 75, 168);
+}
+
+h1 {
+	color: rgb(138, 122, 152);
+	background-color: rgb(240, 239, 237);
+	text-align: center;
+}
+
+.Page2subTitle {
+	font-weight: bold;
+	font-size: 18px;
+	color: rgb(78, 69, 87);
+}
+.Page2normal-P {
+	color: rgb(78, 69, 87);
+}
+
+.Page2-h2-style {
+	color: rgb(104, 65, 144);
+}
+.Page2-h3-style {
+	color: rgb(104, 65, 144);
+}
+
+.Page2-a-style {
+	color: rgb(75, 75, 168);
+}
